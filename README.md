@@ -40,7 +40,7 @@
 
 <img width="1010" alt="Untitled" src="https://user-images.githubusercontent.com/99958597/233800701-99fb9035-d19a-41b4-9c19-4323d2d5aba5.png">
 
-- This is the final result that was obtained. This graph which is extracted from the tonyplot represents the Drain Current graph. This graph also gives a detailed picture of subthreshold region and threshold voltage. 
+- This is the final result that was obtained. This is graph which is extracted from the tonyplot represents the Drain Current graph. This graph also gives a detailed picture of subthreshold region and threshold voltage. 
 
 
 # Tools Used: 
